@@ -1,0 +1,39 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl black-white-tile_albedo
+map_Kd black-white-tile_albedo.png
+bump black-white-tile_normal-ogl.png
+disp black-white-tile_height.png
+Kd 1 1 1
+d 1
+
+newmtl base-white-tile_albedo
+map_Kd base-white-tile_albedo.png
+Kd 1 1 1
+d 1
+
+newmtl chipping-painted-wall_ao
+map_Kd chipping-painted-wall_ao.png
+Kd 0.7169812 0.645283 0.645283
+d 1
+
+newmtl chipping-painted-wall_albedo
+map_Kd chipping-painted-wall_albedo.png
+Kd 1 1 1
+d 1
+
+newmtl base-white-tile_ao
+map_Kd base-white-tile_ao.png
+Kd 1 1 1
+d 1
+
+newmtl mFloor
+map_Kd Floor.png
+bump FloorNormal.png
+disp test.png
+Kd 0.4632353 0.4632353 0.4632353
+d 1
+
